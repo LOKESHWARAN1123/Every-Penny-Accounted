@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "357305618820",
+    "firebase_url": "https://puthagum.firebaseio.com",
+    "project_id": "puthagum",
+    "storage_bucket": "puthagum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357305618820:android:c1eb4535f0bed1c1834dd1",
+        "android_client_info": {
+          "package_name": "com.example.puthagum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357305618820-fvnljb69sdarsjn7n409jgagnm6jlep8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.puthagum",
+            "certificate_hash": "09eba084e7f42c4c4d5f26c1c4598ef4f3ac4246"
+          }
+        },
+        {
+          "client_id": "357305618820-j1pesud22be1uddghfi3a0tgflu4toec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9nWfZ6nXo1sQVmd4Z1qw1BQCeVrzlL9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357305618820-j1pesud22be1uddghfi3a0tgflu4toec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
