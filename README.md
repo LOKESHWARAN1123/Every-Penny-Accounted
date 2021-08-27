@@ -8,3 +8,6 @@ So, an app that identifies each laborer/employee by their ph no. or QR code, whi
 Another use case would be for shops near colleges where students usually pay the shopkeepers at the start of the month due to budgetary constraints.
 
 Expansion in the daily wage workers sector would be, we can have job listings in the app so that it's easier for them to get jobs. Also integrating Digi payment software can be used to make direct bank transfers.
+
+DEMO VIDEO:
+https://www.youtube.com/watch?v=IDDj7hU8F2A
